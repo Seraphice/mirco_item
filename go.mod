@@ -1,3 +1,3 @@
-module git.imooc.com/dfs/dfsmirco
+module git.imooc.com/dfs/my_mirco_item
 
-go 1.18
+go 1.17
